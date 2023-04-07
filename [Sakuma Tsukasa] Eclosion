@@ -1,0 +1,25 @@
+{
+   "title":"[Sakuma Tsukasa] Eclosion",
+   "description":"",
+   "author":"Sakuma Tsukasa",
+   "artist":"Sakuma Tsukasa",
+   "cover":"https://i.imgur.com/5JiaBOD.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/mO0erar"
+         },
+         "last_updated":1624606143,
+         "title":"Eclosion",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/urSgPZp"
+         },
+         "last_updated":1624606143,
+         "title":"Bolero",
+         "volume":"2"
+      }
+   }
+}
