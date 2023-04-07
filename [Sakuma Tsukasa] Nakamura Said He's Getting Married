@@ -1,0 +1,25 @@
+{
+   "title":"[Sakuma Tsukasa] Nakamura Said He's Getting Married",
+   "description":"",
+   "author":"Sakuma Tsukasa",
+   "artist":"Sakuma Tsukasa",
+   "cover":"https://i.imgur.com/7wf778e.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/RmurjOO"
+         },
+         "last_updated":1624606143,
+         "title":"Puppy's Rondo",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/OZkFXez"
+         },
+         "last_updated":1624606143,
+         "title":"Sweet & Salty",
+         "volume":"2"
+      }
+   }
+}
